@@ -1,2 +1,2 @@
 This is file2.txt
-New line added in github
+This line was added in our local github repo
